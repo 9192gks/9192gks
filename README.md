@@ -9,7 +9,9 @@ Dubai, United Arab Emirates
 - 👯 I’m looking to collaborate on any DS related work
 - 🤔 I’m looking for help with Freelancing work
 - 💬 Ask me about python,flask,sql,DS
-- 📫 How to reach me: https://www.linkedin.com/in/gourab-kumar-s-440a86176/ ,9192gks@gmail.com
+- 📫 How to reach me: 9192gks@gmail.com ,[I'm an inline-style link with title](https://www.linkedin.com/in/gourab-kumar-s-440a86176/ "LinkedIN")
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Send me a documentation and i will learn and improvise
 
+
+Thanks for checking out my profile .
