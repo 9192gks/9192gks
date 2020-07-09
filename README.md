@@ -1,9 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I'm Gourab Kumar Sahoo.
 
 <!--
 **9192gks/9192gks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Data Scientist /Data Visualization Developer/Python Developer currently based in
+Dubai, United Arab Emirates
 
 - 🔭 I’m currently working on KYC Backend Application (Python Flask) for Customer Onboarding using GOOGLE AI APIs
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
